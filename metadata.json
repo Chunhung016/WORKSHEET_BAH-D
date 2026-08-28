@@ -1,0 +1,6 @@
+{
+  "name": "Gotong Royong Di Sekolah - Bahagian D",
+  "description": "Aplikasi interaktif bertema lebah dan sarang lebah untuk pembelajaran Bahasa Melayu: Gotong-Royong di Sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
